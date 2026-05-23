@@ -13,5 +13,50 @@
 <link rel="manifest" href="{{ base_path }}/images/manifest.json"/>
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [
+      ['$', '$'],
+      ['\\(', '\\)']
+    ],
+
+    displayMath: [
+      ['$$', '$$'],
+      ['\\[', '\\]']
+    ],
+
+    processEscapes: true,
+    processEnvironments: true,
+
+    packages: {'[+]': ['ams']},
+
+    macros: {
+      Spec: "\\operatorname{Spec}",
+      Proj: "\\operatorname{Proj}",
+      Hom: "\\operatorname{Hom}",
+      Ext: "\\operatorname{Ext}",
+      Pic: "\\operatorname{Pic}",
+      O: "\\mathcal{O}",
+      A: "\\mathbb{A}",
+      P: "\\mathbb{P}",
+      C: "\\mathbb{C}",
+      Z: "\\mathbb{Z}",
+      Q: "\\mathbb{Q}"
+    }
+  },
+
+  options: {
+    skipHtmlTags: [
+      'script',
+      'noscript',
+      'style',
+      'textarea',
+      'pre',
+      'code'
+    ]
+  }
+};
+</script>
 
 <!-- end custom head snippets -->
