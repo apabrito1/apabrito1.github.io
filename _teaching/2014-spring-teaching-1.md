@@ -1,14 +1,10 @@
 ---
-title: "Hi"
+title: ""
 collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
-date: 2026-05-12
-location: ""
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
+---
 
 Teaching Experience
 ====== 
