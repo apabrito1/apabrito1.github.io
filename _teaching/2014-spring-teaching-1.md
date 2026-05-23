@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: ""
-date: 2026-15-08
+date: "2026-15-08"
 location: ""
 ---
 
