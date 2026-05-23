@@ -1,5 +1,5 @@
 ---
-Title: "Teaching Experience"
+title: "Teaching Experience"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
 
