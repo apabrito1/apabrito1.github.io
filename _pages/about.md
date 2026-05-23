@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to My Academic Website!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,6 @@ redirect_from:
 I am interested in algebraic geometry, specifically in birational geometry
 and moduli spaces.
 
-This is my academic website.
+
 
 
