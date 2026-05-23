@@ -1,13 +1,11 @@
 ---
-
+Title: "Teaching Experience"
 collection: teaching
-type: ""
 permalink: /teaching/2014-spring-teaching-1
 
 ---
 
-Teaching Experience
-====== 
+
 
 * Summer 2026: MTH 235- Differential Equations (Recitation Leader)
 * Spring 2026: MTH 235 Differential Equations (Recitation Leader)
