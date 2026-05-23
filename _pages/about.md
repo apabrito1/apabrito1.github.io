@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,6 @@ redirect_from:
 I am interested in algebraic geometry, specifically in birational geometry
 and moduli spaces.
 
-This is my personal academic website.
+This is my academic website.
 
 
