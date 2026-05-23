@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: ""
 collection: teaching
-type: "Undergraduate course"
+type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: ""
+date: 
+location: ""
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
+Teaching Experience
+====== 
 
-Heading 2
-======
-
-Heading 3
-======
+* Summer 2026: MTH 235- Differential Equations (Recitation Leader)
+* Spring 2026: MTH 235 Differential Equations (Recitation Leader)
+* Fall 2025: MTH 133- Calculus II (Recitation Leader)
+* Summer 2025: MTH 132- Calculus I (Recitation Leader)
