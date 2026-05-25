@@ -1,3 +1,4 @@
+<br>
 ---
 permalink: /
 title: "Welcome to My Website!"
@@ -7,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br><br>
+<br>
 
 I am a 2nd year graduate student in mathematics at [Michigan State University](https://msu.edu). My advisor is Prof. [Joe Waldron](https://sites.google.com/msu.edu/joewaldron/). I am interested in algebraic geometry, specifically in birational geometry and moduli spaces.
 
