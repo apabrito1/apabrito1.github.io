@@ -1,4 +1,3 @@
-<br>
 ---
 permalink: /
 title: "Welcome to My Website!"
