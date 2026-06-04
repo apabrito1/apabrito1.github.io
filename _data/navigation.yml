@@ -11,7 +11,7 @@ main:
   - title: "Research"
     url: /publications/
 
-  -  title: "Notes"
+  - title: "Notes"
     url: /notes/
 
   #- title: "Talks"
