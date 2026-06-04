@@ -10,4 +10,4 @@ Here are some notes that I have written.
 
 ## Algebraic Geometry
 
-- [Bend-and-Break](/notes/Bend-and-Break.pdf)
+- [Bend-and-Break](/pdfs/Bend-and-Break.pdf)
